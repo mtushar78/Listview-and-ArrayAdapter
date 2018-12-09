@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrinksApp</string>
+    <string-array name="list">
+        <item>Latte</item>
+        <item>Cappuccino</item>
+        <item>Ice Cappuccino</item>
+    </string-array>
+</resources>
